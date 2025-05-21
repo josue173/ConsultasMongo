@@ -1,0 +1,53 @@
+[
+  {
+    _id: 'Hong Kong',
+    avgPrice: Decimal128('762.4781906300484652665589660743134')
+  },
+  {
+    _id: 'Rio De Janeiro',
+    avgPrice: Decimal128('525.8059701492537313432835820895522')
+  },
+  { _id: 'Other (International)', avgPrice: Decimal128('445.75') },
+  {
+    _id: 'Istanbul',
+    avgPrice: Decimal128('367.9454545454545454545454545454545')
+  },
+  {
+    _id: 'Kauai',
+    avgPrice: Decimal128('288.8208955223880597014925373134328')
+  },
+  {
+    _id: 'Maui',
+    avgPrice: Decimal128('286.5882352941176470588235294117647')
+  },
+  {
+    _id: 'Oahu',
+    avgPrice: Decimal128('212.2964426877470355731225296442688')
+  },
+  {
+    _id: 'Sydney',
+    avgPrice: Decimal128('197.7142857142857142857142857142857')
+  },
+  {
+    _id: 'The Big Island',
+    avgPrice: Decimal128('179.4604316546762589928057553956835')
+  },
+  {
+    _id: 'New York',
+    avgPrice: Decimal128('139.6260296540362438220757825370675')
+  },
+  { _id: 'Other (Domestic)', avgPrice: Decimal128('128.00') },
+  { _id: '', avgPrice: Decimal128('115.50') },
+  {
+    _id: 'Barcelona',
+    avgPrice: Decimal128('100.9477848101265822784810126582278')
+  },
+  {
+    _id: 'Montreal',
+    avgPrice: Decimal128('100.2330246913580246913580246913580')
+  },
+  {
+    _id: 'Porto',
+    avgPrice: Decimal128('69.12815884476534296028880866425993')
+  }
+]

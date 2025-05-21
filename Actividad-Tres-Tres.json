@@ -1,0 +1,123 @@
+[
+  {
+    _id: '4069429',
+    name: '#Private Studio - Waikiki Dream',
+    number_of_reviews: 533,
+    cleanliness: 10
+  },
+  {
+    _id: '12954762',
+    name: 'Near Airport private room, 2 bedroom granny flat**',
+    number_of_reviews: 469,
+    cleanliness: 10
+  },
+  {
+    _id: '95560',
+    name: 'La Sagrada Familia (and metro) 4 blocks!',
+    number_of_reviews: 463,
+    cleanliness: 10
+  },
+  {
+    _id: '476983',
+    name: 'PRIVATE Room in Spacious, Quiet Apt',
+    number_of_reviews: 420,
+    cleanliness: 10
+  },
+  {
+    _id: '2758817',
+    name: 'Porto city centre apartment H',
+    number_of_reviews: 402,
+    cleanliness: 10
+  },
+  {
+    _id: '127208',
+    name: "B & B  Room Yoga Garden's Place",
+    number_of_reviews: 391,
+    cleanliness: 10
+  },
+  {
+    _id: '11610598',
+    name: 'The Ohana at Volcanoes National Park!',
+    number_of_reviews: 385,
+    cleanliness: 10
+  },
+  {
+    _id: '1144090',
+    name: "O'Porto Studio | Historic Center",
+    number_of_reviews: 380,
+    cleanliness: 10
+  },
+  {
+    _id: '18173787',
+    name: 'Cute Tiny Room Family Home by LGA NO CLEANING FEE',
+    number_of_reviews: 379,
+    cleanliness: 10
+  },
+  {
+    _id: '941361',
+    name: 'Hale Kea - A Relaxing Apartment with Ocean Views in Kona',
+    number_of_reviews: 351,
+    cleanliness: 10
+  },
+  {
+    _id: '16493868',
+    name: '1分鐘到高鐵西九龍站､地鐵柯士甸站､機場和港珠澳大橋巴士A22站    10分鐘到中港城碼頭､海港城',
+    number_of_reviews: 348,
+    cleanliness: 10
+  },
+  {
+    _id: '652063',
+    name: 'Room near a Lovely Beach & Airport',
+    number_of_reviews: 312,
+    cleanliness: 10
+  },
+  {
+    _id: '1206363',
+    name: 'Eco Hale Hawaii in the Rainforest Lots Of Aloha',
+    number_of_reviews: 291,
+    cleanliness: 10
+  },
+  {
+    _id: '940374',
+    name: 'New apartment near Sagrada Familia',
+    number_of_reviews: 289,
+    cleanliness: 10
+  },
+  {
+    _id: '1476656',
+    name: 'Studio + Terrace @ Historic Centre!',
+    number_of_reviews: 280,
+    cleanliness: 10
+  },
+  {
+    _id: '2991893',
+    name: 'Sunny penthouse with Parking',
+    number_of_reviews: 275,
+    cleanliness: 10
+  },
+  {
+    _id: '582364',
+    name: 'Spectacular Modern Uptown Duplex',
+    number_of_reviews: 273,
+    cleanliness: 10
+  },
+  {
+    _id: '5404095',
+    name: 'Spanish family host U/private WC',
+    number_of_reviews: 265,
+    cleanliness: 10
+  },
+  {
+    _id: '279986',
+    name: 'Kailua Blue Ocean Breeze/Across Beach',
+    number_of_reviews: 259,
+    cleanliness: 10
+  },
+  {
+    _id: '1796816',
+    name: 'Adorable Garden Gingerbread House',
+    number_of_reviews: 257,
+    cleanliness: 10
+  }
+]
+Type "it" for more
