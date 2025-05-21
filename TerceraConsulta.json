@@ -1,0 +1,48 @@
+{
+  _id: "This place is quite unique. It has old streets and old houses. Stone houses, well preserved, narrow streets... you have to be curious and each walk will bring a discovery. There is a delicious bakery on the apartment street, at 7min walking. They open early, serve meals also and close late. They sell amazing and cheap cakes, there's wifi.  Also there is a big supermarket next to the apartment, sells cheap products and has a big variety.",
+  avgPrice: Decimal128('9.00')
+},
+{
+  _id: 'En el Eixample, una de las zonas más populares de Barcelona, podrás apreciar el corazón de la ciudad, paseo de Gracia, plaza Cataluña, museos, ramblas, sitios nocturnos, fiestas de los barrios y está perfectamente comunicado con toda la ciudad con tren, bus, metro y bicicletas, además de estar súper bien conectado con el aeropuerto para aprovechar al máximo tu estancia.',
+  avgPrice: Decimal128('10.00')
+},
+{
+  _id: 'The apartment is very central, buses next to home, 200 meters from the Badal and Collblac Metro, Bicing next to the Camp Nou. Very close to the University. Next to home there are supermarkets, pharmacies, banks, gas stations and all kinds of businesses.',
+  avgPrice: Decimal128('10.00')
+},
+{
+  _id: 'El barrio es muy tranquilo, tienes la avenida principal a 2 calles.',
+  avgPrice: Decimal128('12.00')
+},
+{
+  _id: 'Zona envolvente com todos os serviços necessários, muito calmo e impar para um bom descanso.',
+  avgPrice: Decimal128('12.00')
+},
+{
+  _id: 'Quiet town with very good and typical restaurants around. There is also small University (CESPU). So you can expect a mix of yound students and normal workers.',
+  avgPrice: Decimal128('13.00')
+},
+{
+  _id: 'Praias serra caves de Gaia zoo de avintes parque ornotologico',
+  avgPrice: Decimal128('14.00')
+},
+{
+  _id: 'Es un barrio con vecinos habituales de Barcelona sin mucho turismo. Muy bien comunicado por todo tipo de transporte público.',
+  avgPrice: Decimal128('14.00')
+},
+{
+  _id: 'It’s close to EELS rugby club n parramatta CBD n station. Buses available close by for station n ferries to go to city.',
+  avgPrice: Decimal128('14.00')
+},
+{
+  _id: 'Gracia neighborhood is a vibrant and diverse enclave of Catalonian life. Gràcia’s intimate, close-packed streets and predominately low-rise, Mediterranean architecture give it a distinct feel. It’s one-way streets are organized around a series of plazas, including the Plaça del Sol, Plaça de Rius i Taulet and Plaça de la Virreina. “Old-world charm” abounds. Nearby: 1. Placa De La Vila De Gracia - 1 min walk 2. Place Del Sol - 4 min walk',
+  avgPrice: Decimal128('14.00')
+},
+{
+  _id: "We recomend having breakfast in the balcony or in the living room, enjoying the sun in the morning and the nice view of the trees. Nearby, you have several facilities like ATM machine, supermarket, several pastries, restaurants, takeaway barbecue grill, fuel/gas station, great access to motorways and city bus! Also, we are within a walking distance to two subway stations. In a quiet area, you'll get the rest you want in order to discover Porto and the surroundings, either you prefer beach, countryside or the city streets!",
+  avgPrice: Decimal128('14.00')
+},
+{
+  _id: 'The famous el Born neighbourhood is part of the old town and the architecture is wonderful.  There are many bars and restaurants close by.',
+  avgPrice: Decimal128('15.00')
+},
