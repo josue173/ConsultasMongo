@@ -1,0 +1,1178 @@
+{
+_id: '356824268',
+date: ISODate('2018-12-09T05:00:00.000Z'),
+listing_id: '10083468',
+reviewer_id: '144838963',
+reviewer_name: 'Yacine',
+comments: "Fabio was very responsive and the flat's location is perfect. I'd definetely recommend his flat."
+},
+{
+_id: '364300484',
+date: ISODate('2018-12-30T05:00:00.000Z'),
+listing_id: '10083468',
+reviewer_id: '227851521',
+reviewer_name: 'Paula',
+comments: 'Gracias'
+},
+{
+_id: '369087499',
+date: ISODate('2019-01-09T05:00:00.000Z'),
+listing_id: '10083468',
+reviewer_id: '168461684',
+reviewer_name: 'Leandro',
+comments: 'Espaço super aconchegante e muito bem localizado. Apartamento é o que se vê nas fotos, com tudo o que se precisa para ter uma excelente estadia.'
+},
+{
+_id: '410014317',
+date: ISODate('2019-02-09T05:00:00.000Z'),
+listing_id: '10083468',
+reviewer_id: '62603902',
+reviewer_name: 'Alfonso',
+comments: '100% recomendable'
+}
+]
+},
+{
+_id: '10209136',
+listing_url: 'https://www.airbnb.com/rooms/10209136',
+name: 'Friendly Apartment, 10m from Manly',
+summary: 'A friendly apartment block where everyone knows each other and there is a strong communal vibe. Property has a huge backyard with vege garden and skate ramp. 7min walk to the beach and 2min to buses.',
+space: 'Great bedroom with a queen bed and window with views facing out over Balgowlah area, with great views of sunset. Large cupboards and drawers available for storage space.',
+description: 'A friendly apartment block where everyone knows each other and there is a strong communal vibe. Property has a huge backyard with vege garden and skate ramp. 7min walk to the beach and 2min to buses. Great bedroom with a queen bed and window with views facing out over Balgowlah area, with great views of sunset. Large cupboards and drawers available for storage space. You will have access to kitchen, bathroom, lounge room, separate laundry and well as the large garden space. I will be contactable by phone, housemate is friendly man who love meeting new people. All other apartment tenants are also very helpful and welcoming. Fairlight is the suburb between Manly and Balgowlah. It is quiet, close to the water and no more than 10mins away from everything you could need. Balgowlah shops is a 10 min walk with many cafes and restaurants. Manly is a 15min walk away, a very nice walk along the water. 3 mins from Sydney Rd where you can get a bus to Manly or the City easily. 15 min walk to Manly',
+neighborhood_overview: 'Fairlight is the suburb between Manly and Balgowlah. It is quiet, close to the water and no more than 10mins away from everything you could need. Balgowlah shops is a 10 min walk with many cafes and restaurants. Manly is a 15min walk away, a very nice walk along the water.',
+notes: "Everyone in the block of apartments know each other and will often hang out together in the backyard. Big mix of ages and professions- everyone loves surfing and skating. Also worth noting, there will be a party in the backyard on NYE which you'd be welcome to join.",
+transit: '3 mins from Sydney Rd where you can get a bus to Manly or the City easily. 15 min walk to Manly Wharf to catch the ferry.',
+access: 'You will have access to kitchen, bathroom, lounge room, separate laundry and well as the large garden space.',
+interaction: 'I will be contactable by phone, housemate is friendly man who love meeting new people. All other apartment tenants are also very helpful and welcoming.',
+house_rules: 'This would best suit a down-to-earth, friendly person or couple who want to be near the water over the summer.  Non-smoking, no pets. Please do not have extra guests without notice.',
+property_type: 'Apartment',
+room_type: 'Private room',
+bed_type: 'Real Bed',
+minimum_nights: '1',
+maximum_nights: '1125',
+cancellation_policy: 'flexible',
+last_scraped: ISODate('2019-03-07T05:00:00.000Z'),
+calendar_last_scraped: ISODate('2019-03-07T05:00:00.000Z'),
+first_review: ISODate('2016-01-24T05:00:00.000Z'),
+last_review: ISODate('2016-02-16T05:00:00.000Z'),
+accommodates: 2,
+bedrooms: 1,
+beds: 1,
+number_of_reviews: 4,
+bathrooms: Decimal128('1.0'),
+amenities: [
+'Internet',
+'Wifi',
+'Kitchen',
+'Free parking on premises',
+'Heating',
+'Family/kid friendly',
+'Washer',
+'Dryer',
+'First aid kit',
+'Essentials'
+],
+price: Decimal128('36.00'),
+extra_people: Decimal128('20.00'),
+guests_included: Decimal128('2'),
+images: {
+thumbnail_url: '',
+medium_url: '',
+picture_url: 'https://a0.muscache.com/im/pictures/f2da856f-1eb3-4b89-af8e-24e95322625d.jpg?aki_policy=large',
+xl_picture_url: ''
+},
+host: {
+host_id: '52453573',
+host_url: 'https://www.airbnb.com/users/show/52453573',
+host_name: 'Isaac',
+host_location: 'Sydney, New South Wales, Australia',
+host_about: '',
+host_thumbnail_url: 'https://a0.muscache.com/im/pictures/4c3ec070-d880-4c2b-80ab-5009f416cc43.jpg?aki_policy=profile_small',
+host_picture_url: 'https://a0.muscache.com/im/pictures/4c3ec070-d880-4c2b-80ab-5009f416cc43.jpg?aki_policy=profile_x_medium',
+host_neighbourhood: '',
+host_is_superhost: false,
+host_has_profile_pic: true,
+host_identity_verified: true,
+host_listings_count: 1,
+host_total_listings_count: 1,
+host_verifications: [ 'email', 'phone', 'reviews', 'jumio', 'government_id' ]
+},
+address: {
+street: 'Fairlight, NSW, Australia',
+suburb: 'Fairlight',
+government_area: 'Manly',
+market: 'Sydney',
+country: 'Australia',
+country_code: 'AU',
+location: {
+type: 'Point',
+coordinates: [ 151.26969, -33.79629 ],
+is_location_exact: false
+}
+},
+availability: {
+availability_30: 0,
+availability_60: 0,
+availability_90: 0,
+availability_365: 0
+},
+review_scores: {
+review_scores_accuracy: 10,
+review_scores_cleanliness: 10,
+review_scores_checkin: 9,
+review_scores_communication: 9,
+review_scores_location: 10,
+review_scores_value: 9,
+review_scores_rating: 95
+},
+reviews: [
+{
+_id: '60490478',
+date: ISODate('2016-01-24T05:00:00.000Z'),
+listing_id: '10209136',
+reviewer_id: '53221994',
+reviewer_name: 'Ayrton',
+comments: "This stunning place is definately the best accommodation we've had in australia! They make one feel very at home and let you take part on the good vibes ! It's tidy and very comfi.. I really recomend this place for everyone who likes to be surrounded by good people! \r\n" +
+  'thanks'
+},
+{
+_id: '61730945',
+date: ISODate('2016-02-07T05:00:00.000Z'),
+listing_id: '10209136',
+reviewer_id: '46601878',
+reviewer_name: 'Shabilla',
+comments: "Isaac's house was as beautiful as can be, the room had sunlight and was cozy, clean and neat. \r\n" +
+  'cozy small kitchen comes with the room and a lively backyard with a lovely and very friendly dog that is not shy to say hello to you.\r\n' +
+  '\r\n' +
+  "Definitely recommend staying at Isaac's, as he is also very nice and kind.."
+},
+{
+_id: '61850513',
+date: ISODate('2016-02-08T05:00:00.000Z'),
+listing_id: '10209136',
+reviewer_id: '19712217',
+reviewer_name: 'Alexandra',
+comments: 'Staying here is like "going home". You feel part of the family and everyone is really chilled. Highly recommend for those seeking a relaxing time away. Clean and great location. '
+},
+{
+_id: '62779695',
+date: ISODate('2016-02-16T05:00:00.000Z'),
+listing_id: '10209136',
+reviewer_id: '53457963',
+reviewer_name: 'Svenja',
+comments: 'A very nice Apartment with a Great big garden and so many nice neighbours! Just awesome there! :)'
+}
+]
+},
+{
+_id: '1016739',
+listing_url: 'https://www.airbnb.com/rooms/1016739',
+name: 'Private Room (2)  in Guest House at Coogee Beach',
+summary: 'Room 2  Private room in charming recently renovated federation guest house at Coogee Beach. Prices are per room for 2 People only. A queen  and a single bed. Not suitable for group booking All rooms have  TV, desk, wardrobe, beds, unlimited wifi 2 mins from the beach, cafes and transport. This is not a party house but a safe and clean place to stay. Share bathrooms and kitchen... All common areas are cleaned daily.',
+space: 'Price is per room and each room has a double bed, accommodates 2 people. NOT suitable for group bookings Property is very secure with electronic entry at front gate and individually keyed rooms. A safe and quiet place to come home to with the ability to mingle with other guests if you wish. Check our reviews on Trip Advisor, were new to Air BNB (URL HIDDEN)',
+description: "Room 2  Private room in charming recently renovated federation guest house at Coogee Beach. Prices are per room for 2 People only. A queen  and a single bed. Not suitable for group booking All rooms have  TV, desk, wardrobe, beds, unlimited wifi 2 mins from the beach, cafes and transport. This is not a party house but a safe and clean place to stay. Share bathrooms and kitchen... All common areas are cleaned daily. Price is per room and each room has a double bed, accommodates 2 people. NOT suitable for group bookings Property is very secure with electronic entry at front gate and individually keyed rooms. A safe and quiet place to come home to with the ability to mingle with other guests if you wish. Check our reviews on Trip Advisor, were new to Air BNB (URL HIDDEN) Included in the price is unlimited wifi, Kitchen facilities, Laundry facilities and private shared bathrooms. Manager onsite. I am happy to provide advice on local restaurants and travel tips. You definitely don't need a ",
+neighborhood_overview: "You definitely don't need a car here, all shops, cafes and beach are within 3 mins walk. The beach is 300M meters away, plus many beautiful seaside parks with BBQ facilities and picnic areas.",
+notes: 'Guests may extend their stay long term up to 12 months',
+transit: 'Walking and buses are the best way...25 mins to the CBD by bus',
+access: 'Included in the price is unlimited wifi, Kitchen facilities, Laundry facilities and private shared bathrooms. Manager onsite.',
+interaction: 'I am happy to provide advice on local restaurants and travel tips.',
+house_rules: 'Leave it as you found it! Clean :)',
+property_type: 'House',
+room_type: 'Private room',
+bed_type: 'Real Bed',
+minimum_nights: '3',
+maximum_nights: '365',
+cancellation_policy: 'strict_14_with_grace_period',
+last_scraped: ISODate('2019-03-07T05:00:00.000Z'),
+calendar_last_scraped: ISODate('2019-03-07T05:00:00.000Z'),
+first_review: ISODate('2013-07-15T04:00:00.000Z'),
+last_review: ISODate('2017-12-01T05:00:00.000Z'),
+accommodates: 2,
+bedrooms: 1,
+beds: 2,
+number_of_reviews: 8,
+bathrooms: Decimal128('3.5'),
+amenities: [
+'TV',
+'Internet',
+'Wifi',
+'Kitchen',
+'Smoking allowed',
+'Doorman',
+'Free street parking',
+'Family/kid friendly',
+'Washer',
+'Dryer',
+'Smoke detector',
+'Safety card',
+'Fire extinguisher',
+'Essentials',
+'Lock on bedroom door',
+'24-hour check-in',
+'Hangers',
+'Hair dryer',
+'Iron',
+'Laptop friendly workspace',
+'Self check-in',
+'Keypad',
+'Hot water'
+],
+price: Decimal128('64.00'),
+weekly_price: Decimal128('500.00'),
+monthly_price: Decimal128('2000.00'),
+security_deposit: Decimal128('0.00'),
+cleaning_fee: Decimal128('30.00'),
+extra_people: Decimal128('0.00'),
+guests_included: Decimal128('1'),
+images: {
+thumbnail_url: '',
+medium_url: '',
+picture_url: 'https://a0.muscache.com/im/pictures/15288404/3f765cd7_original.jpg?aki_policy=large',
+xl_picture_url: ''
+},
+host: {
+host_id: '5595776',
+host_url: 'https://www.airbnb.com/users/show/5595776',
+host_name: 'David',
+host_location: 'Sydney, New South Wales, Australia',
+host_about: 'Welcoming host who wants you to enjoy the beautiful surrounds at Coogee Beach',
+host_response_time: 'within a few hours',
+host_thumbnail_url: 'https://a0.muscache.com/im/users/5595776/profile_pic/1372823881/original.jpg?aki_policy=profile_small',
+host_picture_url: 'https://a0.muscache.com/im/users/5595776/profile_pic/1372823881/original.jpg?aki_policy=profile_x_medium',
+host_neighbourhood: 'Coogee',
+host_response_rate: 100,
+host_is_superhost: false,
+host_has_profile_pic: true,
+host_identity_verified: true,
+host_listings_count: 6,
+host_total_listings_count: 6,
+host_verifications: [
+'email',
+'phone',
+'reviews',
+'jumio',
+'offline_government_id',
+'government_id'
+]
+},
+address: {
+street: 'Coogee, NSW, Australia',
+suburb: 'Coogee',
+government_area: 'Randwick',
+market: 'Sydney',
+country: 'Australia',
+country_code: 'AU',
+location: {
+type: 'Point',
+coordinates: [ 151.25541, -33.92398 ],
+is_location_exact: true
+}
+},
+availability: {
+availability_30: 0,
+availability_60: 0,
+availability_90: 19,
+availability_365: 20
+},
+review_scores: {
+review_scores_accuracy: 10,
+review_scores_cleanliness: 10,
+review_scores_checkin: 10,
+review_scores_communication: 10,
+review_scores_location: 10,
+review_scores_value: 9,
+review_scores_rating: 100
+},
+reviews: [
+{
+_id: '5755359',
+date: ISODate('2013-07-15T04:00:00.000Z'),
+listing_id: '1016739',
+reviewer_id: '6574131',
+reviewer_name: 'Helen',
+comments: "My stay at David's Coggee Beach house was excellent. It's a big house with 10 large bedrooms, and common livingroom and large kitchen, deck (super nice) and bathrooms (3 bathroom area with individual shower (nice one), sink and toilet). I met nice people who gave me good advices to get around Sydney. David, the host, is very responsible and responded on the post to my emails while I was there. Being large, the house is very quiet and no one really bother anyone else. A cleaner shows up everyday, they were two ladies when I was there. They do an amazing job keeping the place spotless, and they are also very sweet. Now, Coggee is an amazing place. The house is up the street from the beach- there is also a large green park next to the beach. It's really nice. I went swimming at the ladies bath (sometype of sea water swimming pool on the beach) the first morning despite being Winter: amazing! I find that the picture showing Coggee beach do not make justice. It is so much more beautiful. I can't wait to go back there. (details: bus are down the street, Sydney downtown is 25min away, the airport is 20 min away (35$ for a cab), Bondi beach is 2 beaches away :p (20min), and peroquees are all around:)"
+},
+{
+_id: '36828326',
+date: ISODate('2015-07-01T04:00:00.000Z'),
+listing_id: '1016739',
+reviewer_id: '36481755',
+reviewer_name: 'David',
+comments: 'David introduced himself almost immediately on arrival and made me feel welcome. Place was exactly as posted. Other guests were interesting, courteous and helpful. Room was comfortable as was the bed. Large, easy share kitchen well organized and clean. The only negative (for me with recent hip replacement surgery) was all hand washing sinks except kitchen sink were one flight of stairs down. Immediate neighborhood pretty residential. Commerce and Coogee Beach just a short walk.'
+},
+{
+_id: '57169096',
+date: ISODate('2015-12-22T05:00:00.000Z'),
+listing_id: '1016739',
+reviewer_id: '46240075',
+reviewer_name: 'Daria',
+comments: ' David was a very nice and hepful host, we loved it to stay in his Apartment :) it was always clean and tidy.'
+},
+{
+_id: '149168171',
+date: ISODate('2017-05-02T04:00:00.000Z'),
+listing_id: '1016739',
+reviewer_id: '24238331',
+reviewer_name: 'Ying Tung',
+comments: 'The host canceled this reservation 13 days before arrival. This is an automated posting.'
+},
+{
+_id: '187918788',
+date: ISODate('2017-08-28T04:00:00.000Z'),
+listing_id: '1016739',
+reviewer_id: '142114667',
+reviewer_name: 'Vera',
+comments: "When I arrived at Sydney, I received David's message about our arrival time, and let us know the room is ready. The house of David is very easy to find. The house is big. The manager helped us to check in and introduced the use of the house in detail.The room is very big. The bed and storage space are large, The room is tidy and have a TV, even though our English is not very good, Johnny patiently explain for us.There are a lot of rooms. The kitchen has adequate facilities.The tenant from Brazil and France, and all people are very friendly, liking to chat. You can know many friends here, in addition to go out a few steps to reach the beach. The scenery is very beautiful.There are a lot of lines, bus station to attractions which is very convenient.Johnny is very keen to send us to the destination when we leave. The people are very good and here is a very worth to stay.David and Johnny are nice, and I hope I can come here again next time."
+},
+{
+_id: '212218085',
+date: ISODate('2017-11-16T05:00:00.000Z'),
+listing_id: '1016739',
+reviewer_id: '57239123',
+reviewer_name: 'Beatrice',
+comments: 'The house is a big house shared by usually long term tenants (months to years). All of them have been lovely and made me feel very welcome even if I was there for a short amount of time. \n' +
+  'The room was immense and everything was super clean. \n' +
+  'The location is perfect for access to Coogee beach and multiple food options. Many buses options also to go to CBD.\n' +
+  "All in all probably one of the best air BnB I've been to."
+},
+{
+_id: '214144824',
+date: ISODate('2017-11-25T05:00:00.000Z'),
+listing_id: '1016739',
+reviewer_id: '157991133',
+reviewer_name: 'Florence',
+comments: 'great experience!'
+},
+{
+_id: '215817063',
+date: ISODate('2017-12-01T05:00:00.000Z'),
+listing_id: '1016739',
+reviewer_id: '39062098',
+reviewer_name: 'Valentina',
+comments: 'David’s place is full of really nice guests and very close to bars, cafes, shops, transport and beaches. We loved staying here, the place is well equipped with cooking and cleaning facilities. Only downside is the slow Wi-Fi but I believe David is already on the case! Would definitely recommend to anyone who wants to visit Sydney but wants to stay near the coast!'
+}
+]
+},
+{
+_id: '10138784',
+listing_url: 'https://www.airbnb.com/rooms/10138784',
+name: 'Room Close to LGA and 35 mins to Times Square',
+summary: 'A private small bedroom in a 2 BR 1BA apartment. There’s no living area as I converted to live in. The location is 2 minutes to Q33 bus stop, 5 minutes to 7 train station ( which directly takes you to Times Square in 35-40 minutes ).',
+space: 'The bedroom has a queen bed, a closet, a mini fridge, outlets, USB ports, wifi, and AC.',
+description: 'A private small bedroom in a 2 BR 1BA apartment. There’s no living area as I converted to live in. The location is 2 minutes to Q33 bus stop, 5 minutes to 7 train station ( which directly takes you to Times Square in 35-40 minutes ). The bedroom has a queen bed, a closet, a mini fridge, outlets, USB ports, wifi, and AC. Kitchen is not provided to use. Guest have access to the bedroom and bathroom only. This apartment has my husband and me. This place also has a chinchilla and a French Bulldog. We are living in this apartment in a living area. And we are offering an actual room for your privacy. I would be very happy to welcome all dog lovers because our frenchie loves to interact with people. So feel free to contact me if you have any questions :) This elevator building is located in a great neighborhood where there are many great restaurants from all parts of the world ( Latin American, Indian, Thai, Japanese, Filipino and the list goes on) .  The building is also conveniently near ma',
+neighborhood_overview: 'This elevator building is located in a great neighborhood where there are many great restaurants from all parts of the world ( Latin American, Indian, Thai, Japanese, Filipino and the list goes on) .  The building is also conveniently near many groceries (including organic choices) and drugstores if you ever need anything.',
+notes: 'Hair dryer, iron, and towels are provided. Any question or concern, please message me anytime.',
+transit: 'About 2 minutes to Q33 bus stop which will take you to LaGuardia (about 25 minutes) . 5 minutes walk to 7 train station ( which directly takes you to Times Square in about 35-40 minutes ).',
+access: 'Kitchen is not provided to use. Guest have access to the bedroom and bathroom only.',
+interaction: 'This apartment has my husband and me. This place also has a chinchilla and a French Bulldog. We are living in this apartment in a living area. And we are offering an actual room for your privacy. I would be very happy to welcome all dog lovers because our frenchie loves to interact with people. So feel free to contact me if you have any questions :)',
+house_rules: "* check-in time AFTER 5:00 pm. Guest is required to communicate and update by messaging AT LEAST 30 MINUTES prior your arrival. NO EARLY CHECK-IN to keep the other guest's privacy.  * STRICT CHECK-OUT TIME IS 11:00 AM. There will be an extra night charge for late check-out with no prior approval * Guest's visitors are not allowed to come in without prior approval * Please take off your shoes at the entrance of the apartment. Per AirBnB’s policy, no 3rd-party bookings",
+property_type: 'Apartment',
+room_type: 'Private room',
+bed_type: 'Real Bed',
+minimum_nights: '2',
+maximum_nights: '1125',
+cancellation_policy: 'strict_14_with_grace_period',
+last_scraped: ISODate('2019-03-07T05:00:00.000Z'),
+calendar_last_scraped: ISODate('2019-03-07T05:00:00.000Z'),
+first_review: ISODate('2016-01-05T05:00:00.000Z'),
+last_review: ISODate('2018-11-28T05:00:00.000Z'),
+accommodates: 2,
+bedrooms: 1,
+beds: 1,
+number_of_reviews: 123,
+bathrooms: Decimal128('1.0'),
+amenities: [
+'Internet',
+'Wifi',
+'Air conditioning',
+'Pets live on this property',
+'Dog(s)',
+'Other pet(s)',
+'Elevator',
+'Buzzer/wireless intercom',
+'Heating',
+'First aid kit',
+'Essentials',
+'Shampoo',
+'Hangers',
+'Hair dryer',
+'translation missing: en.hosting_amenity_49',
+'translation missing: en.hosting_amenity_50',
+'Hot water',
+'Bed linens',
+'Host greets you'
+],
+price: Decimal128('46.00'),
+security_deposit: Decimal128('0.00'),
+cleaning_fee: Decimal128('15.00'),
+extra_people: Decimal128('10.00'),
+guests_included: Decimal128('1'),
+images: {
+thumbnail_url: '',
+medium_url: '',
+picture_url: 'https://a0.muscache.com/im/pictures/f1c9e2c8-c619-4c97-afab-b8bf0ae9ea1d.jpg?aki_policy=large',
+xl_picture_url: ''
+},
+host: {
+host_id: '52031360',
+host_url: 'https://www.airbnb.com/users/show/52031360',
+host_name: 'Cheer',
+host_location: 'New York, New York, United States',
+host_about: '',
+host_response_time: 'within an hour',
+host_thumbnail_url: 'https://a0.muscache.com/im/pictures/1e61ad3c-eb0f-486a-ac09-1a834973d8cd.jpg?aki_policy=profile_small',
+host_picture_url: 'https://a0.muscache.com/im/pictures/1e61ad3c-eb0f-486a-ac09-1a834973d8cd.jpg?aki_policy=profile_x_medium',
+host_neighbourhood: 'Jackson Heights',
+host_response_rate: 100,
+host_is_superhost: true,
+host_has_profile_pic: true,
+host_identity_verified: true,
+host_listings_count: 1,
+host_total_listings_count: 1,
+host_verifications: [
+'email',
+'phone',
+'reviews',
+'jumio',
+'offline_government_id',
+'government_id'
+]
+},
+address: {
+street: 'Queens, NY, United States',
+suburb: 'Queens',
+government_area: 'Jackson Heights',
+market: 'New York',
+country: 'United States',
+country_code: 'US',
+location: {
+type: 'Point',
+coordinates: [ -73.88025, 40.74953 ],
+is_location_exact: true
+}
+},
+availability: {
+availability_30: 30,
+availability_60: 60,
+availability_90: 90,
+availability_365: 365
+},
+review_scores: {
+review_scores_accuracy: 10,
+review_scores_cleanliness: 10,
+review_scores_checkin: 10,
+review_scores_communication: 10,
+review_scores_location: 9,
+review_scores_value: 10,
+review_scores_rating: 99
+},
+reviews: [
+{
+_id: '58997630',
+date: ISODate('2016-01-05T05:00:00.000Z'),
+listing_id: '10138784',
+reviewer_id: '29971763',
+reviewer_name: 'Joel',
+comments: 'Host was wonderful. She and her husband were awesome host with nothing strict. they volunteered to send me off knowing i have many baggage. i would love to stay with her if given the chance again and at this price. its a steal folks in NYC. love the pet as well, furry and fun'
+},
+{
+_id: '59023222',
+date: ISODate('2016-01-05T05:00:00.000Z'),
+listing_id: '10138784',
+reviewer_id: '50615599',
+reviewer_name: 'Jintong',
+comments: '房东人很好,入住前很认真的打扫了卫生｡房源信息描述准确｡有毛巾和洗发水沐浴露提供｡街区很安静,离地铁站比较近｡'
+},
+{
+_id: '59452509',
+date: ISODate('2016-01-10T05:00:00.000Z'),
+listing_id: '10138784',
+reviewer_id: '26271157',
+reviewer_name: 'Zeyu',
+comments: 'Wonderful stay at Cheer s apartment, the room is cozy and clean. Cheer and her roommates showed great hospitality. I had great time talk with them.'
+},
+{
+_id: '78138982',
+date: ISODate('2016-06-05T04:00:00.000Z'),
+listing_id: '10138784',
+reviewer_id: '67568091',
+reviewer_name: 'Mehul',
+comments: "It's an amazing place to stay in New York, Cheer and her husband were really welcoming and answered all my queries quickly, they even helped me with all the touristy things and all. The room is as advertised, cleaned. The dog is really amazing and if you're a dog lover then it's the best place to stay at this price. I highly recommend this place."
+},
+{
+_id: '85171662',
+date: ISODate('2016-07-10T04:00:00.000Z'),
+listing_id: '10138784',
+reviewer_id: '76368773',
+reviewer_name: 'Erick',
+comments: "Cheer and her husband were incredibly nice and welcoming. Their place is very nice and clean. I loved the neighborhood, it's very diverse and safe. It's only a 5 min walk to the 7 train which connects you to everywhere. I would definitely recommended staying with Cheer! "
+},
+{
+_id: '85741197',
+date: ISODate('2016-07-13T04:00:00.000Z'),
+listing_id: '10138784',
+reviewer_id: '23720962',
+reviewer_name: 'Guillermo Alberto',
+comments: 'Very lovely couple, nice and clean place, they did 150%. \r\n' +
+  '5 Stars allarround, highly reccomended.\r\n' +
+  'I will return to this place ever.\r\n' +
+  'Thank you very very very much'
+},
+{
+_id: '92238240',
+date: ISODate('2016-08-08T04:00:00.000Z'),
+listing_id: '10138784',
+reviewer_id: '65711087',
+reviewer_name: 'Aniruddha',
+comments: 'When I reached Cheer was there to attend me and the place was clean and ready for me to stay. They provided everything they claimed and also more.\r\n' +
+  "Pudit was also very helpful.The puppy is really sweet. I'm not a dog person but it didn't bother me.Its really well trained for guests. Usually you won't even notice its in the house. \r\n" +
+  'I had to extend my stay but the place was already booked after me. Cheer helped me to find a nearby Airbnb proactively.Also Pudit offered his cart to carry my guitars. It was really sweet of them. They are really approachable people.\r\n' +
+  'Thanks for making my stay comfortable guys!'
+},
+{
+_id: '93169964',
+date: ISODate('2016-08-11T04:00:00.000Z'),
+listing_id: '10138784',
+reviewer_id: '82211441',
+reviewer_name: '翰林',
+comments: 'It was a great experience! The room is terrific!'
+},
+{
+_id: '93989521',
+date: ISODate('2016-08-14T04:00:00.000Z'),
+listing_id: '10138784',
+reviewer_id: '56591298',
+reviewer_name: 'Maimie',
+comments: 'Cheer was so nice .She suggested memany things .I want to come back to  stay at this place again.'
+},
+{
+_id: '94672364',
+date: ISODate('2016-08-16T04:00:00.000Z'),
+listing_id: '10138784',
+reviewer_id: '83089293',
+reviewer_name: 'Joaquin',
+comments: "I love the place, Cheer and her husband were very kind, the apartment was very close to the subway, definately I'm going to stay with them if I'm back to New York"
+},
+{
+_id: '97058195',
+date: ISODate('2016-08-25T04:00:00.000Z'),
+listing_id: '10138784',
+reviewer_id: '16709126',
+reviewer_name: 'Jen',
+comments: "Cheer was very accommodating and her puppy was adorable. The room was very clean, especially the towels and bed sheets. It was nice to have an air conditioner in the room, although I didn't need it. I was worried about the location at first but it was great and safe to roam around even at night. Lots of fruit stands around during the day! There was a train station close by so I was able to go to Manhattan easily."
+},
+{
+_id: '98913702',
+date: ISODate('2016-09-02T04:00:00.000Z'),
+listing_id: '10138784',
+reviewer_id: '72797068',
+reviewer_name: 'Chih-Chen',
+comments: "Cheer is so so helpful with what to do in the neighbor! She is also such a nice person. I very much enjoyed talking to her. I didn't want to leave just because I want to talk to her more! Her husband is also a great guy, who helped out when I got some blisters in my feet.\r\n" +
+  '\r\n' +
+  'The neighbor is very good. 37th Ave is great. You can take long walk to either direction and end up at either Corona Park or Diversity Plaza. A very cultural distinctive place.'
+},
+{
+_id: '99721113',
+date: ISODate('2016-09-05T04:00:00.000Z'),
+listing_id: '10138784',
+reviewer_id: '77195281',
+reviewer_name: 'Herald',
+comments: "Cheer's place is fantastic! \r\n" +
+  'Very friendly and a cozy clean room. Excellent location and would stay again and recommend to friends and family.\r\n' +
+  'Thanks, Cheer!\r\n'
+},
+{
+_id: '100304877',
+date: ISODate('2016-09-08T04:00:00.000Z'),
+listing_id: '10138784',
+reviewer_id: '13983323',
+reviewer_name: 'Jeraldaine',
+comments: "Cheer's place was great! I like the room - simple, comfy, and clean. It's like your old room back in the city that you just want to retire after a very exhausting day. =) \n" +
+  '\n' +
+  "Mostly my fault that I didn't get to interact as much with Cheer and her housemates during my stay (coz US Open), but they were wonderful and easy to get along. Sorry that I wasn't able to personally say goodbye coz of my super early flight. But until next time! =)"
+},
+{
+_id: '101253779',
+date: ISODate('2016-09-12T04:00:00.000Z'),
+listing_id: '10138784',
+reviewer_id: '22793059',
+reviewer_name: 'Bogdan Valentin',
+comments: 'The room was just as described. The 7 line is just 2-3 minutes away and you also have a lot of nice places you can eat shop right there in the vecinity. Felt like I had everything I needed.'
+},
+{
+_id: '105405036',
+date: ISODate('2016-10-01T04:00:00.000Z'),
+listing_id: '10138784',
+reviewer_id: '74652610',
+reviewer_name: 'Lord',
+comments: "Cheer and Pudit made sure that my stay in New York is one for the books...  The room is super clean and the restroom as well... They value your privacy and they don't restrict you when it comes to time in coming home... And Nathan the cute french bull dog is the bonus mascot in the house!!! I highly recommend cheer's place if you want value for your money, good location and tidiness!!! "
+},
+{
+_id: '105946511',
+date: ISODate('2016-10-03T04:00:00.000Z'),
+listing_id: '10138784',
+reviewer_id: '95220347',
+reviewer_name: 'Gaby',
+comments: 'Cheer and her husband were wonderful. The room was clean and cozy and felt like home. Another big plus is that it is only about a five minute walk to the 7 train. \n' +
+  'Overall, I would definitely recommend staying with Cheer. \n' +
+  'Thanks again for making my first Airbnb experience a great one!!'
+},
+{
+_id: '107475553',
+date: ISODate('2016-10-10T04:00:00.000Z'),
+listing_id: '10138784',
+reviewer_id: '89230828',
+reviewer_name: 'Vlad',
+comments: 'For me this place is a perfect place to stay if you want to visit new york. Cheer and her husband were really nice and they welcome me. Their dog, Mason, is really friendly and i enjoy playing with it. '
+},
+{
+_id: '108112188',
+date: ISODate('2016-10-14T04:00:00.000Z'),
+listing_id: '10138784',
+reviewer_id: '95535426',
+reviewer_name: 'Leonila',
+comments: "The experience is the first for me and I was say it's a good one. The couple is very friendly and it's. Very clean place, and you go in and out as you please. Only drawback, no parking like anywhere else."
+},
+{
+_id: '108558533',
+date: ISODate('2016-10-16T04:00:00.000Z'),
+listing_id: '10138784',
+reviewer_id: '73850788',
+reviewer_name: 'Chau',
+comments: 'Cheer was a perfect host! I arrived later than we had originally planned, but she was completely understanding and was there to welcome me in. The room has everything to make you feel at home : a closet equipped with hangers, umbrella, and iron; television, books, tissues, towels; even a mini-fridge with water and some snacks. The apartment itself is impeccably clean. Lots of restaurants nearby. Safe area. Bonus: cute puppy and chinchillas. '
+},
+{
+_id: '110463721',
+date: ISODate('2016-10-26T04:00:00.000Z'),
+listing_id: '10138784',
+reviewer_id: '10600043',
+reviewer_name: 'Rolf',
+comments: 'Lovely place.'
+},
+{
+_id: '111524356',
+date: ISODate('2016-10-31T04:00:00.000Z'),
+listing_id: '10138784',
+reviewer_id: '29071836',
+reviewer_name: 'Jing JIng',
+comments: 'Great experience! Cheer is a very good host. \r\n' +
+  'She was very accommodating and provide many helpful information. The room was just like what it looks on airbnb.  Her place is only a five minute walk from the subway. The room was clean and comfortable.'
+},
+{
+_id: '112150350',
+date: ISODate('2016-11-04T04:00:00.000Z'),
+listing_id: '10138784',
+reviewer_id: '50298391',
+reviewer_name: 'Justyna',
+comments: 'The room was exactly as pictured. No problems communicating with Cheer. A great place to stay.'
+},
+{
+_id: '112908129',
+date: ISODate('2016-11-08T05:00:00.000Z'),
+listing_id: '10138784',
+reviewer_id: '101283168',
+reviewer_name: 'Chanho',
+comments: 'Cheer is such a nice host. I feel comfortable while i was staying. The location is also pretty nice for the safety and noise. I was very satisfied overall.'
+},
+{
+_id: '113240075',
+date: ISODate('2016-11-11T05:00:00.000Z'),
+listing_id: '10138784',
+reviewer_id: '97574601',
+reviewer_name: 'Monica',
+comments: "Cheer is the best! The room is clean, quite and really convenient!  I really enjoy every minute there. I'll live there for sure next time when I visit NYC! Best wishes!"
+},
+{
+_id: '113957708',
+date: ISODate('2016-11-14T05:00:00.000Z'),
+listing_id: '10138784',
+reviewer_id: '9197357',
+reviewer_name: 'Ronn',
+comments: "Great experience staying here. Cheer was very friendly and helpful. The place was clean and in good location. I'll be back :)"
+},
+{
+_id: '115416417',
+date: ISODate('2016-11-24T05:00:00.000Z'),
+listing_id: '10138784',
+reviewer_id: '62047948',
+reviewer_name: 'Daniel',
+comments: 'Very cozy and convenient to the subway station! Very accomodating and loved the room!'
+},
+{
+_id: '115988189',
+date: ISODate('2016-11-27T05:00:00.000Z'),
+listing_id: '10138784',
+reviewer_id: '30019042',
+reviewer_name: 'Yuma',
+comments: 'This host is really nice. They are very kind. I really recommend to stay their place!'
+},
+{
+_id: '120913919',
+date: ISODate('2016-12-12T05:00:00.000Z'),
+listing_id: '10138784',
+reviewer_id: '63611990',
+reviewer_name: 'Jamal',
+comments: "Great place to come and stay. Close to 82nd street station which takes you to 74th, and from there you can get anywhere in NYC. Loads of shops near to the apartment as well and Cheer keeps the place immaculate. She is also very responsive, which was much appreciated. Will consider giving her a shout if I'm back in NYC in the near future! "
+},
+{
+_id: '121128534',
+date: ISODate('2016-12-14T05:00:00.000Z'),
+listing_id: '10138784',
+reviewer_id: '87347299',
+reviewer_name: 'Jasmin',
+comments: "Cheer was an absolutely wonderful host! Her apartment is easy to locate and very close to a subway stop, which made transit into Manhattan and to the airport very easy for me. Her place is very clean and cozy! I absolutely loved the bedroom, the bed was very comfortable. Cheer was nice enough to let me drop off my bags earlier than check-in time so that I could go into the city for the day and was not bothered by me coming in and out late or early. She had everything I needed in the room including clean towels, cold water, a fan, books, and anything else I might need. The best part about her apartment was Mason the pup, he's VERY sweet! I would definitely stay here again and recommend it to others. Thank you Cheer! "
+},
+{
+_id: '122149719',
+date: ISODate('2016-12-21T05:00:00.000Z'),
+listing_id: '10138784',
+reviewer_id: '95331484',
+reviewer_name: 'Lia',
+comments: '房東非常非常非常友善､房間很乾淨､交通也很方便(地鐵站只要五分鐘)､周圍也很安全､附近也有不錯的餐廳,非常推薦!謝謝房東~'
+},
+{
+_id: '124357777',
+date: ISODate('2017-01-01T05:00:00.000Z'),
+listing_id: '10138784',
+reviewer_id: '92958243',
+reviewer_name: 'Tamir',
+comments: "Cheer and her husband were very kind and helpful. We even got to chit-chat a bit. The apartment is just as described, very comfortable bed and it's just 2 blocks from the subway which is great if you want to travel around NYC. Would definitely come back!"
+},
+{
+_id: '125587741',
+date: ISODate('2017-01-06T05:00:00.000Z'),
+listing_id: '10138784',
+reviewer_id: '107503673',
+reviewer_name: 'Zhi Xiang',
+comments: 'Cheer and her husband were friendly and checked in often during my stay there.'
+},
+{
+_id: '127346239',
+date: ISODate('2017-01-17T05:00:00.000Z'),
+listing_id: '10138784',
+reviewer_id: '30670258',
+reviewer_name: 'Matt',
+comments: 'Cheer and her husband were very nice and provided a great home base for exploring the city. There dog is the cutest too.'
+},
+{
+_id: '131255610',
+date: ISODate('2017-02-11T05:00:00.000Z'),
+listing_id: '10138784',
+reviewer_id: '2527903',
+reviewer_name: 'Anne',
+comments: 'Cozy and clean room with a very comfortable bed and nice coffee and tea. Cheer was very friendly and flexible even when my plans changed last minute. Thanks!'
+},
+{
+_id: '133292625',
+date: ISODate('2017-02-21T05:00:00.000Z'),
+listing_id: '10138784',
+reviewer_id: '97427254',
+reviewer_name: 'Travis',
+comments: 'This place is great! Your going to love it!'
+},
+{
+_id: '134708822',
+date: ISODate('2017-02-28T05:00:00.000Z'),
+listing_id: '10138784',
+reviewer_id: '99554881',
+reviewer_name: 'Marco',
+comments: 'If your looking for a good place to stay close to the metro and near LGA I would suggest staying here! Cheer is super friendly and the place is nice and neat!'
+},
+{
+_id: '136856907',
+date: ISODate('2017-03-12T05:00:00.000Z'),
+listing_id: '10138784',
+reviewer_id: '51597346',
+reviewer_name: 'Jyoti',
+comments: 'Cheer and her husband are super clean, honest and flexible. Great experience and neighborhood. I felt safe and it was very accessible to and from Manhattan. '
+},
+{
+_id: '138611268',
+date: ISODate('2017-03-20T04:00:00.000Z'),
+listing_id: '10138784',
+reviewer_id: '48399058',
+reviewer_name: 'Peter',
+comments: 'Cool stay! Thanks!'
+},
+{
+_id: '139276137',
+date: ISODate('2017-03-24T04:00:00.000Z'),
+listing_id: '10138784',
+reviewer_id: '29755978',
+reviewer_name: 'Sean',
+comments: 'Cheer is an Airbnb pro. Will stay again.'
+},
+{
+_id: '140525618',
+date: ISODate('2017-03-30T04:00:00.000Z'),
+listing_id: '10138784',
+reviewer_id: '119836994',
+reviewer_name: 'Zicheng',
+comments: 'it is really a nice room, clean, comfortable, the host is nice and the dog is really funny. I spent a great time here.'
+},
+{
+_id: '140928360',
+date: ISODate('2017-04-01T04:00:00.000Z'),
+listing_id: '10138784',
+reviewer_id: '56113310',
+reviewer_name: 'Ioannis',
+comments: 'very nice place and very clean !'
+},
+{
+_id: '141531418',
+date: ISODate('2017-04-03T04:00:00.000Z'),
+listing_id: '10138784',
+reviewer_id: '96471596',
+reviewer_name: 'Youri',
+comments: "I had a good time at Cheer's place. It's clean and I liked the neighbourhood. It's close to interesting areas in Queens, there are many ethnic neighbourhoods around this area with very good, cheap restaurants.\n" +
+  "I wasn't very social as most of the times I was either away or sleeping but Cheer and her husband helped me whenever I had a question."
+},
+{
+_id: '142518172',
+date: ISODate('2017-04-08T04:00:00.000Z'),
+listing_id: '10138784',
+reviewer_id: '46863555',
+reviewer_name: 'Kels',
+comments: "Cheer's place was warm and welcoming. The private room has a cozy bed, soft and natural lighting, a mini fridge with water and coca-cola, a full-length mirror, and a closet space to hang clothing so as to settle in a little more throughout the stay. \n" +
+  '\n' +
+  "Cheer was flexible in accommodating my check-in time, and very kind when I arrived. Cheer's dog was absolutely adorable. Above all, I appreciated the privacy I was able to have coupled with the hospitality. \n" +
+  '\n' +
+  "If you're looking for a spot close to Manhattan, Cheer's place is a good choice. Cheer's spot is close to various subway and bus stops, making trips into the city very easy. There are also a variety of good restaurants in the area, as well as delicious street food. \n" +
+  '\n' +
+  "I would definitely recommend Cheer's place!"
+},
+{
+_id: '143412437',
+date: ISODate('2017-04-11T04:00:00.000Z'),
+listing_id: '10138784',
+reviewer_id: '124455169',
+reviewer_name: 'Changbin',
+comments: 'good location (near the subway station LINE 7, near the LGA).\n' +
+  'good service: Cheer is so nice that she still waited for me until I came there at 12:30AM (flight was delayed)\n' +
+  'The most important is the room is so so clean!'
+},
+{
+_id: '144330968',
+date: ISODate('2017-04-15T04:00:00.000Z'),
+listing_id: '10138784',
+reviewer_id: '24580067',
+reviewer_name: 'Evan',
+comments: "Had a lovely time at Cheer's place.  Didn't have much contact with Cheer herself but she was available when I needed her and the room was comfortable.  I quite enjoyed the area, never felt unsafe.  Plus I came here straight from Argentina and it almost felt like I never left which was a plus for me.  \n" +
+  '\n' +
+  "Also the French bulldog in the apartment is the best possible roommate one could ask for.  My only complaint is that I didn't get to hang out with him more."
+},
+{
+_id: '145721465',
+date: ISODate('2017-04-19T04:00:00.000Z'),
+listing_id: '10138784',
+reviewer_id: '10262737',
+reviewer_name: 'David',
+comments: 'Nice place as described.\nSubway gets you direct to Times Square etc!'
+},
+{
+_id: '147234078',
+date: ISODate('2017-04-25T04:00:00.000Z'),
+listing_id: '10138784',
+reviewer_id: '581840',
+reviewer_name: 'Gustavo',
+comments: 'Excellent location, great neighborhood. \n' +
+  'Everything was perfect and clean.\n' +
+  '\n' +
+  "I recommend stay here, I'll do in my next trip. "
+},
+{
+_id: '147801280',
+date: ISODate('2017-04-28T04:00:00.000Z'),
+listing_id: '10138784',
+reviewer_id: '204037',
+reviewer_name: 'David Chi-Tai',
+comments: "Cheer was exceptionally friendly and kind to her guests. Mason, the French Bulldog, was also cute and clever. The room was as described and offered even more. Cheer  added some minibar items, how generous! Would highly recommend the room to anyone who's visiting New York and Queens, especially those who flys in and out via LGA."
+},
+{
+_id: '149137043',
+date: ISODate('2017-05-02T04:00:00.000Z'),
+listing_id: '10138784',
+reviewer_id: '49304634',
+reviewer_name: 'Suthida',
+comments: 'Cheer and her husband are so nice. Their professional host and care made my trip went smoothly. If this is your first time in New York. I would recommend you to start from this place, not only close to all kind of transportations and groceries. Their New Yorker will get you through many of interesting places, nice restaurants or whatever you may need. Her dog, Mason, is so lovely...I like to  make fun of him ;)'
+},
+{
+_id: '150823015',
+date: ISODate('2017-05-09T04:00:00.000Z'),
+listing_id: '10138784',
+reviewer_id: '17410970',
+reviewer_name: 'Dongmin',
+comments: 'Cozy place to stay with reasonable price.'
+},
+{
+_id: '151629905',
+date: ISODate('2017-05-13T04:00:00.000Z'),
+listing_id: '10138784',
+reviewer_id: '121283821',
+reviewer_name: 'Ronak',
+comments: 'Cheers is the one of the best host I ever threw Airbnb . She is a perfect host'
+},
+{
+_id: '152764957',
+date: ISODate('2017-05-18T04:00:00.000Z'),
+listing_id: '10138784',
+reviewer_id: '115143085',
+reviewer_name: 'Muller',
+comments: 'Very nice place to stay with a lot of stores around, near the subway station. Lovely pets, my first time playing with a chinchilla. Highly recommend. The couple was very kind and let me check in after 10pm. '
+},
+{
+_id: '153290394',
+date: ISODate('2017-05-20T04:00:00.000Z'),
+listing_id: '10138784',
+reviewer_id: '24512309',
+reviewer_name: 'Kristof',
+comments: 'This is a great place to stay! The room is very nice and close to a lot of restaurants and the subway. I could get in contact with the hosts whenever I was in need. They answered pretty quick what was great. \n' +
+  'I can absolutely recommend this place!\n' +
+  '\n' +
+  'Ps: they even put candy in my room for my arrival '
+},
+{
+_id: '154274333',
+date: ISODate('2017-05-23T04:00:00.000Z'),
+listing_id: '10138784',
+reviewer_id: '19008092',
+reviewer_name: 'Wennie',
+comments: "This is my first time visiting NYC and as a solo traveler, Cheer's place was just what I needed! The room was spacious for one and well equipped with hotel-like amenities. Everything from personal toiletries to extra umbrella made the stay felt like home. The train station was a five minute walk from the building and I was able to venture off to all of Manhattan/Brooklyn. LaGuardia was easily accessible with the Q70 bus even with rush hour traffic. Mason was an awesome roommate and I miss him already! I recommend staying here if you love exploring diverse communities. "
+},
+{
+_id: '155741649',
+date: ISODate('2017-05-28T04:00:00.000Z'),
+listing_id: '10138784',
+reviewer_id: '37278188',
+reviewer_name: 'Pia',
+comments: 'Room and whole apt nice & clean, and the host was very nice.\n' +
+  '\n' +
+  'Only suggestion would be to add a Roku or Fire Stick b/c regular digital TV sux!!'
+},
+{
+_id: '157754069',
+date: ISODate('2017-06-04T04:00:00.000Z'),
+listing_id: '10138784',
+reviewer_id: '79932115',
+reviewer_name: 'Yutaka',
+comments: '駅から少し離れていますが､空港からもﾏﾝﾊｯﾀﾝからも近くとても便利でした｡近隣は南米･中東･ｱｼﾞｱ系の住民が多く済む地域でとても色々なお店がありました｡ﾎｽﾄのﾀｲ人夫婦もとても良くしてくれました｡'
+},
+{
+_id: '159065956',
+date: ISODate('2017-06-09T04:00:00.000Z'),
+listing_id: '10138784',
+reviewer_id: '131165086',
+reviewer_name: 'Christina',
+comments: "Cheer's place was everything I expected and more. The room had everything you needed, from coffee to chocolate treats. It felt really homely which made the stay extra comfortable. I would definitely stay here again! "
+},
+{
+_id: '159743118',
+date: ISODate('2017-06-11T04:00:00.000Z'),
+listing_id: '10138784',
+reviewer_id: '129530392',
+reviewer_name: 'Owen',
+comments: 'Great place to stay! Check in was simple and easy even when I arrived late. Room is really nice and comfortable with everything you need.\n' +
+  'Would definitely stay here again!'
+},
+{
+_id: '160783022',
+date: ISODate('2017-06-15T04:00:00.000Z'),
+listing_id: '10138784',
+reviewer_id: '33763891',
+reviewer_name: 'Randy',
+comments: 'Cheer is a very friendly and reliable host (Mason the dog loves visitors!). Room was as advertised, neat and clean with nice touches (fresh towel, guidebooks, mini-fridge, candy). Shared bathroom was also clean. Check-in was very easy. Location and building are both quiet and safe, 15 minutes from LGA and walking distance to the subway (15-30 minutes to Manhattan). I highly recommend this listing. Thanks, Cheer.'
+},
+{
+_id: '162384869',
+date: ISODate('2017-06-20T04:00:00.000Z'),
+listing_id: '10138784',
+reviewer_id: '135327310',
+reviewer_name: 'Anna',
+comments: 'Gorąco polecam wszystkim, szalenie mili gospodarze. Sprawili, że moje dziecko czuło się bezpiecznie i miło.'
+},
+{
+_id: '163101365',
+date: ISODate('2017-06-23T04:00:00.000Z'),
+listing_id: '10138784',
+reviewer_id: '120835160',
+reviewer_name: 'Mami',
+comments: "This place is located close to lots of shops, restaurants, but it's quiet as well. You can get to Manhattan easily(about 30mins to Times Square). Cheer was very nice, accommodating and knowleageable about neighborhood. She kindly told me some good restaurants when I asked her. The room was clean and tidy. I spent time as I stay at home. Highly recommended!"
+},
+{
+_id: '163391394',
+date: ISODate('2017-06-24T04:00:00.000Z'),
+listing_id: '10138784',
+reviewer_id: '109912144',
+reviewer_name: 'Chris',
+comments: "Cheer's place was nice.  The room was clean, comfortable, and had some nice amenities.  The building Cheer lives in is nice and is in a great neighborhood with a variety of restaurants and bars.  Getting around is easy with lots of transportation nearby to get in an out of the city and LGA.  Plus, if you are a dog lover, Cheer's dog is really cute.  Nice place!"
+},
+{
+_id: '166539738',
+date: ISODate('2017-07-03T04:00:00.000Z'),
+listing_id: '10138784',
+reviewer_id: '105054692',
+reviewer_name: 'Ramesh',
+comments: 'Awesome place to live for travelers'
+},
+{
+_id: '168005429',
+date: ISODate('2017-07-08T04:00:00.000Z'),
+listing_id: '10138784',
+reviewer_id: '80019962',
+reviewer_name: 'Ryan',
+comments: 'Great place to stay in New York City. Really enjoyed my stay, and their french bulldog is really friendly. Highly recommend!'
+},
+{
+_id: '168937959',
+date: ISODate('2017-07-10T04:00:00.000Z'),
+listing_id: '10138784',
+reviewer_id: '44042620',
+reviewer_name: 'Shannon',
+comments: "Perfect spot for solo traveler. Had everything you'd need, especially on a budget. Very clean, comfortable & all the privacy you'd like. Very happy with stay, & Cheer is excellent with communication! Send also helpful with advice on getting around NYC. "
+},
+{
+_id: '172045703',
+date: ISODate('2017-07-19T04:00:00.000Z'),
+listing_id: '10138784',
+reviewer_id: '60525152',
+reviewer_name: 'Peter',
+comments: "Staying at Cheer's place was perfect for my first visit to New York. I was happy to be a little bit outside of the center of the city, so that I could go home and relax in the evening - the neighborhood was surprisingly quiet for the city. The apartment is well connected to transit for going into Manhattan too, so I never had difficulty getting where I needed to go. Her dog was also really great and would often greet me at the door when I got home."
+},
+{
+_id: '174668088',
+date: ISODate('2017-07-26T04:00:00.000Z'),
+listing_id: '10138784',
+reviewer_id: '140549350',
+reviewer_name: 'Anneke',
+comments: 'Wanneer je op zoek bent naar een comfortabel verblijf, dan heb je hier alles wat je nodig hebt. Er is een waterkoker voor thee en koffie, een airco voor de warme New Yorkse zomernachten, maar ook ligt er een schaal vol lekkere snoepjes voor je klaar wat een leuke verrassing is. Cheer zorgt dat het je aan niets ontbreekt! De badkamer is altijd schoon en als je iets nodig hebt wil Cheer altijd helpen.'
+},
+{
+_id: '175711366',
+date: ISODate('2017-07-29T04:00:00.000Z'),
+listing_id: '10138784',
+reviewer_id: '39482018',
+reviewer_name: 'Betzabe',
+comments: 'The room was even better than described. The mini fridge really came in handy and the bed was super comfortable. Cheer was incredibly helpful with the checking in process. If you are a dog lover you will love Mason the french bulldog. He is super friendly and very well behaved. The location is perfect if you fly in and out of LGA. I highly recommend it if it is your first time visiting NYC. I would definitely book her place again for my next visit to NYC.'
+},
+{
+_id: '177108398',
+date: ISODate('2017-08-01T04:00:00.000Z'),
+listing_id: '10138784',
+reviewer_id: '30935610',
+reviewer_name: 'Shujing',
+comments: 'very clean and neat. Close to lots of supermarkets, pharmacies and restaurants. The closest subway stations are Jackson Heights and 84 Street, which bring you to Manhattan in approx 30 mins. The room amenities are thoughtfully arranged with USB charging station, Mini Fridge( with ice cube tray), Candies, soft and clean hand and bath towels'
+},
+{
+_id: '179840845',
+date: ISODate('2017-08-08T04:00:00.000Z'),
+listing_id: '10138784',
+reviewer_id: '20113217',
+reviewer_name: 'Keewon',
+comments: 'Easy to get.\n' +
+  'Safe and nice neighborhood with many restaurants and shops.\n' +
+  'The dog and chinchilla is soooooo cute'
+},
+{
+_id: '182013026',
+date: ISODate('2017-08-13T04:00:00.000Z'),
+listing_id: '10138784',
+reviewer_id: '111818059',
+reviewer_name: 'Katherine',
+comments: "Cheer's place is super cozy and just like in the pictures! It's a great deal for the price! Check-in and check-out were easy and she was always really quick at replying questions. And her dog is the cutest :)"
+},
+{
+_id: '187220958',
+date: ISODate('2017-08-26T04:00:00.000Z'),
+listing_id: '10138784',
+reviewer_id: '64767868',
+reviewer_name: 'Chelsie',
+comments: "Cheer's place is great. The room and apartment are clean, Jackson Heights is an amazing neighborhood and they have the CUTEST dog ever."
+},
+{
+_id: '192082555',
+date: ISODate('2017-09-09T04:00:00.000Z'),
+listing_id: '10138784',
+reviewer_id: '8834234',
+reviewer_name: 'Jeremy',
+comments: 'Great room and great location! Thanks!'
+},
+{
+_id: '194772623',
+date: ISODate('2017-09-17T04:00:00.000Z'),
+listing_id: '10138784',
+reviewer_id: '137233793',
+reviewer_name: 'Evelyn',
+comments: "Cheer's place was a wonderful place to stay at for my visit to NYC! The room was exactly as described in the pictures. The place was very clean and Cheer provided many extra amenities in the room such as a small fridge, a water boiler, TV with cable/Netflix, candies and much more! The French bulldog is also very cute, well-behaved and quiet. It is only an easy couple blocks walk to the 7 subway train and there are also a lot of restaurants in the neighborhood. I wouldn't hesitate to stay at Cheer's place the next time I am in NYC, it really has everything you need. Thanks Cheer!"
+},
+{
+_id: '195983033',
+date: ISODate('2017-09-21T04:00:00.000Z'),
+listing_id: '10138784',
+reviewer_id: '30909069',
+reviewer_name: 'Nico',
+comments: "I really enjoyed my time at Cheer's place. Good location, quiet, clean.. subway just around the corner. I would definitely like to come back. Thanks!"
+},
+{
+_id: '196286730',
+date: ISODate('2017-09-22T04:00:00.000Z'),
+listing_id: '10138784',
+reviewer_id: '151575638',
+reviewer_name: 'Steve',
+comments: 'Great, clean, well supplied room for an awesome price!'
+},
+{
+_id: '197730759',
+date: ISODate('2017-09-26T04:00:00.000Z'),
+listing_id: '10138784',
+reviewer_id: '95948017',
+reviewer_name: 'Derek',
+comments: 'Cheer was a great host. Easy to contact for help when needed. The neighborhood is lovely and public transit was easy to access. The apartment was very clean and cozy. Was definitely a great spot to rest after walking miles around New York. Oh, and her French bulldog was the absolute sweetest. Overall a great stay and highly recommended!'
+},
+{
+_id: '198461384',
+date: ISODate('2017-09-29T04:00:00.000Z'),
+listing_id: '10138784',
+reviewer_id: '150627309',
+reviewer_name: 'Lyudmil',
+comments: 'Nice place and nice room'
+},
+{
+_id: '198828718',
+date: ISODate('2017-09-30T04:00:00.000Z'),
+listing_id: '10138784',
+reviewer_id: '152631110',
+reviewer_name: 'Myo',
+comments: 'A great and clean place. Pet friendly as well. Five stars.'
+},
+{
+_id: '199986862',
+date: ISODate('2017-10-03T04:00:00.000Z'),
+listing_id: '10138784',
+reviewer_id: '26344232',
+reviewer_name: 'Calebe',
+comments: 'My staying was perfect! Cheer has a lovely family who made me feel like home. I would really recommend her place!'
+},
+{
+_id: '203774713',
+date: ISODate('2017-10-15T04:00:00.000Z'),
+listing_id: '10138784',
+reviewer_id: '145196764',
+reviewer_name: 'Wilhelm',
+comments: "Very nice room, not too far away from the subway. Perfect for a short stay wether you'll stay in or spend the whole day in the city."
+},
+{
+_id: '206074405',
+date: ISODate('2017-10-23T04:00:00.000Z'),
+listing_id: '10138784',
+reviewer_id: '61955220',
+reviewer_name: 'Veronica',
+comments: 'Cheer’s place was amazing! I couldn’t ask for a better place! Neighborhood was very safe! Access to the subway was very convenient! I hope to stay here again the next time I am in Jackson Heights!'
+},
+{
+_id: '208490943',
+date: ISODate('2017-11-01T04:00:00.000Z'),
+listing_id: '10138784',
+reviewer_id: '148659018',
+reviewer_name: 'Ken',
+comments: "Nice to stay at Cheer's home.  Just take 30 mins to Mahatten by subway 7 line.  At this price lev it is great recommendation to travellers."
+}
