@@ -1,0 +1,12 @@
+[
+  { "_id": "Wifi", "count": 5303 },
+  { "_id": "Essentials", "count": 5048 },
+  { "_id": "Kitchen", "count": 4951 },
+  { "_id": "TV", "count": 4295 },
+  { "_id": "Hangers", "count": 4226 },
+  { "_id": "Hair dryer", "count": 3900 },
+  { "_id": "Washer", "count": 3877 },
+  { "_id": "Shampoo", "count": 3709 },
+  { "_id": "Iron", "count": 3692 },
+  { "_id": "Laptop friendly workspace", "count": 3442 }
+]
